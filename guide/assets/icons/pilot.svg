@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+<title>pilot data</title>
+<desc>Navigation icon: pilot data.</desc>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="#101826" stroke="#4ecdc4" stroke-width="3"/>
+<g fill='none' stroke='#4ecdc4' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'><path d='M32 50V30M32 30c0-9-7-13-15-13 0 9 6 13 15 13zM32 36c0-8 6-11 14-11 0 8-5 11-14 11z'/></g>
+</svg>

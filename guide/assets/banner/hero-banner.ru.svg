@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-labelledby="t d">
+<title id="t">Гиперполе и растения</title>
+<desc id="d">Сгенерированная иллюстрация, не скриншот. Сетка из 13 запланированных групп RCT (контроль и три канала на четыре режима), каждая ячейка нарисована пустой, потому что 13 из 13 корзин данных без фото; заголовок; три числа, посчитанные по репозиторию: 13 групп в плане, из них 13 пустых, 23 фото пилота, 10 прогонов слепой модели на одном кадре.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='330' rx='18' fill='url(#bg)'/>
+
+<rect x='40' y='52' width='132' height='40' rx='8' fill='none' stroke='#4ecdc4' stroke-width='1.6' stroke-dasharray='5 5'/>
+<text x='106.0' y='77' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>контроль</text>
+<rect x='40' y='108' width='62' height='40' rx='8' fill='none' stroke='#ffcf5c' stroke-width='1.6' stroke-dasharray='5 5'/>
+<rect x='110' y='108' width='62' height='40' rx='8' fill='none' stroke='#ffcf5c' stroke-width='1.6' stroke-dasharray='5 5'/>
+<rect x='180' y='108' width='62' height='40' rx='8' fill='none' stroke='#ffcf5c' stroke-width='1.6' stroke-dasharray='5 5'/>
+<rect x='250' y='108' width='62' height='40' rx='8' fill='none' stroke='#ffcf5c' stroke-width='1.6' stroke-dasharray='5 5'/>
+<rect x='40' y='156' width='62' height='40' rx='8' fill='none' stroke='#a78bfa' stroke-width='1.6' stroke-dasharray='5 5'/>
+<rect x='110' y='156' width='62' height='40' rx='8' fill='none' stroke='#a78bfa' stroke-width='1.6' stroke-dasharray='5 5'/>
+<rect x='180' y='156' width='62' height='40' rx='8' fill='none' stroke='#a78bfa' stroke-width='1.6' stroke-dasharray='5 5'/>
+<rect x='250' y='156' width='62' height='40' rx='8' fill='none' stroke='#a78bfa' stroke-width='1.6' stroke-dasharray='5 5'/>
+<rect x='40' y='204' width='62' height='40' rx='8' fill='none' stroke='#6f9bff' stroke-width='1.6' stroke-dasharray='5 5'/>
+<rect x='110' y='204' width='62' height='40' rx='8' fill='none' stroke='#6f9bff' stroke-width='1.6' stroke-dasharray='5 5'/>
+<rect x='180' y='204' width='62' height='40' rx='8' fill='none' stroke='#6f9bff' stroke-width='1.6' stroke-dasharray='5 5'/>
+<rect x='250' y='204' width='62' height='40' rx='8' fill='none' stroke='#6f9bff' stroke-width='1.6' stroke-dasharray='5 5'/>
+<text x='326' y='134' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='700'>ch17</text>
+<text x='326' y='182' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='700'>ch19</text>
+<text x='326' y='230' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='700'>ch21</text>
+<text x='40' y='282' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='30' fill='#ffa657' text-anchor='start' font-weight='800'>0 / 13</text>
+<text x='150' y='282' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#8ea0d6' text-anchor='start' font-weight='400'>групп с данными</text>
+<text x='520' y='66' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700' letter-spacing='2'>АГРОНОМИЧЕСКОЕ ИССЛЕДОВАНИЕ</text>
+<text x='1164' y='36' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='end' font-weight='700' letter-spacing='2'>РЕЗУЛЬТАТОВ RCT ПОКА НЕТ</text>
+<text x='520' y='128' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='44' fill='#e6ecff' text-anchor='start' font-weight='800'>Гиперполе и растения</text>
+<text x='520' y='170' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='21' fill='#8ea0d6' text-anchor='start' font-weight='400'>Испытание на 13 групп описано полностью;</text>
+<text x='520' y='198' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='21' fill='#8ea0d6' text-anchor='start' font-weight='400'>пока есть только пилотный слой</text>
+<rect x='520.0' y='246' width='190.1' height='38' rx='19' fill='#ffa657' fill-opacity='0.08' stroke='#ffa657'/>
+<text x='615.0' y='271' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>13 групп, 13 пустых</text>
+<rect x='722.1' y='246' width='88.8' height='38' rx='19' fill='#4ecdc4' fill-opacity='0.08' stroke='#4ecdc4'/>
+<text x='766.5' y='271' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>23 фото</text>
+<rect x='822.9' y='246' width='184.4' height='38' rx='19' fill='#34d399' fill-opacity='0.08' stroke='#34d399'/>
+<text x='915.1' y='271' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>10 прогонов, 1 кадр</text>
+<text x='24' y='316' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>сетка = группы плана; каждая ячейка пока пуста</text>
+</svg>

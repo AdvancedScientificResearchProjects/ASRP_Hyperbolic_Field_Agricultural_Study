@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-labelledby="t d">
+<title id="t">Planned schedule and what happened</title>
+<desc id="d">Two lanes, not to scale. Lane one, the plan: 2026 Q1 Mar: protocol v8.3 finalised; 2026 Q2 Apr equipment setup, May pilot, Jun main experiment starts; 2026 Q3 Jul-Aug main experiment, Sep growth monitoring; 2026 Q4 Oct-Nov growth monitoring, Dec data analysis starts; 2027 Q1 Jan data analysis, Feb-Mar publication. Lane two, the pilot layer: 2026-05-02 First photo of the 23-photo set; 2026-06-04 Labelled pea pair; mould confound in the control; 2026-06-16 Radish blind panel: one frame, one model; 2026-06-29 Exp29 laid down (2 x 2 seed x water); 2026-07-02 Microscopy pilot, 8 frames; 2026-07-03 Pattern analysis, 52 frames; 2026-07-07 Blind plant protocol with percipients designed; no result; 2026-07-08 Earlier-samples batch received; not analysed.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='520' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Planned schedule and what happened</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Not to scale; each pilot date is taken from one repository text</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>TIMELINE</text>
+<text x='24' y='100' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#a78bfa' text-anchor='start' font-weight='800'>PLAN (DIAGRAM IN THE REPOSITORY)</text>
+<line x1='24' y1='118' x2='1176' y2='118' stroke='#a78bfa' stroke-width='2' stroke-opacity='0.6'/>
+<circle cx='136.0' cy='118' r='6' fill='#a78bfa'/>
+<rect x='24.0' y='134' width='224.0' height='118' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='34.0' y='160.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026 Q1</text>
+<text x='34.0' y='180.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Mar: protocol v8.3 finalised</text>
+<text x='34.0' y='201.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ PLANNED</text>
+<circle cx='368.0' cy='118' r='6' fill='#a78bfa'/>
+<rect x='256.0' y='134' width='224.0' height='118' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='266.0' y='160.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026 Q2</text>
+<text x='266.0' y='180.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Apr equipment setup, May</text>
+<text x='266.0' y='200.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>pilot, Jun main experiment</text>
+<text x='266.0' y='220.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>starts</text>
+<text x='266.0' y='241.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ PLANNED</text>
+<circle cx='600.0' cy='118' r='6' fill='#a78bfa'/>
+<rect x='488.0' y='134' width='224.0' height='118' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='498.0' y='160.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026 Q3</text>
+<text x='498.0' y='180.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Jul-Aug main experiment, Sep</text>
+<text x='498.0' y='200.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>growth monitoring</text>
+<text x='498.0' y='221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ PLANNED</text>
+<circle cx='832.0' cy='118' r='6' fill='#a78bfa'/>
+<rect x='720.0' y='134' width='224.0' height='118' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='730.0' y='160.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026 Q4</text>
+<text x='730.0' y='180.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Oct-Nov growth monitoring,</text>
+<text x='730.0' y='200.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Dec data analysis starts</text>
+<text x='730.0' y='221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ PLANNED</text>
+<circle cx='1064.0' cy='118' r='6' fill='#a78bfa'/>
+<rect x='952.0' y='134' width='224.0' height='118' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='962.0' y='160.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2027 Q1</text>
+<text x='962.0' y='180.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Jan data analysis, Feb-Mar</text>
+<text x='962.0' y='200.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>publication</text>
+<text x='962.0' y='221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ PLANNED</text>
+<text x='24' y='270' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='800'>WHAT EXISTS (DATED FILES)</text>
+<line x1='24' y1='288' x2='1176' y2='288' stroke='#4ecdc4' stroke-width='2' stroke-opacity='0.6'/>
+<circle cx='92.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='24.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='34.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-05-02</text>
+<text x='34.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>First photo of</text>
+<text x='34.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>the 23-photo set</text>
+<circle cx='237.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='169.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='179.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-06-04</text>
+<text x='179.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Labelled pea pair;</text>
+<text x='179.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>mould confound in</text>
+<text x='179.0' y='390.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>the control</text>
+<circle cx='382.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='314.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='324.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-06-16</text>
+<text x='324.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Radish blind panel:</text>
+<text x='324.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>one frame, one</text>
+<text x='324.0' y='390.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>model</text>
+<circle cx='527.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='459.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='469.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-06-29</text>
+<text x='469.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Exp29 laid down</text>
+<text x='469.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>(2 x 2 seed x</text>
+<text x='469.0' y='390.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>water)</text>
+<circle cx='672.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='604.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='614.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-07-02</text>
+<text x='614.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Microscopy pilot,</text>
+<text x='614.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>8 frames</text>
+<circle cx='817.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='749.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='759.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-07-03</text>
+<text x='759.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Pattern analysis,</text>
+<text x='759.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>52 frames</text>
+<circle cx='962.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='894.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='904.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-07-07</text>
+<text x='904.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Blind plant</text>
+<text x='904.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>protocol with</text>
+<text x='904.0' y='390.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>percipients</text>
+<text x='904.0' y='410.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>designed; no</text>
+<text x='904.0' y='430.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>result</text>
+<circle cx='1107.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='1039.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='1049.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-07-08</text>
+<text x='1049.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Earlier-samples</text>
+<text x='1049.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>batch received;</text>
+<text x='1049.0' y='390.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>not analysed</text>
+<text x='24' y='484' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Quarters are copied from the plan diagram charts/mermaid/root_2.png;</text>
+<text x='24' y='504' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>the repository does not say whether they were kept.</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 500" width="1100" height="500" role="img" aria-labelledby="t d">
+<title id="t">Запланированные 13 групп: все корзины пусты</title>
+<desc id="d">Таблица 13 запланированных групп протокола v8.3: одна контрольная группа и каналы 17, 19 и 21 в четырёх режимах каждый: прямой, вода, кристалл, комбинированный. В каждой ячейке ноль фото, 13 из 13 корзин пустые плейсхолдеры. Справа факторы дизайна: 6 культур, 8 субстратов, 200 семян на группу и культуру, всего 15,600 семян, это число дизайна, а не выполненное испытание. Канал 14, мутагенез, это отдельная гипотеза без группы.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1100' height='500' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Запланированные 13 групп: все корзины пусты</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Раскладка протокола v8.3 (корзины data/); фото к группам не привязаны</text>
+<text x='1076' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ДИЗАЙН</text>
+<rect x='104' y='104' width='118' height='74' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='163.0' y='139.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>контроль</text>
+<text x='163.0' y='159.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 фото</text>
+<text x='163.0' y='218' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='middle' font-weight='700'>прямой</text>
+<text x='289.0' y='218' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='middle' font-weight='700'>вода</text>
+<text x='415.0' y='218' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='middle' font-weight='700'>кристалл</text>
+<text x='541.0' y='218' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='middle' font-weight='700'>комбинир.</text>
+<text x='24' y='268' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#ffcf5c' text-anchor='start' font-weight='800'>ch17</text>
+<rect x='104' y='230' width='118' height='64' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='163.0' y='269.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 фото</text>
+<rect x='230' y='230' width='118' height='64' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='289.0' y='269.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 фото</text>
+<rect x='356' y='230' width='118' height='64' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='415.0' y='269.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 фото</text>
+<rect x='482' y='230' width='118' height='64' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='541.0' y='269.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 фото</text>
+<text x='24' y='340' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#a78bfa' text-anchor='start' font-weight='800'>ch19</text>
+<rect x='104' y='302' width='118' height='64' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='163.0' y='341.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 фото</text>
+<rect x='230' y='302' width='118' height='64' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='289.0' y='341.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 фото</text>
+<rect x='356' y='302' width='118' height='64' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='415.0' y='341.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 фото</text>
+<rect x='482' y='302' width='118' height='64' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='541.0' y='341.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 фото</text>
+<text x='24' y='412' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#6f9bff' text-anchor='start' font-weight='800'>ch21</text>
+<rect x='104' y='374' width='118' height='64' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='163.0' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 фото</text>
+<rect x='230' y='374' width='118' height='64' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='289.0' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 фото</text>
+<rect x='356' y='374' width='118' height='64' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='415.0' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 фото</text>
+<rect x='482' y='374' width='118' height='64' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='541.0' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 фото</text>
+<rect x='622' y='104' width='454' height='186' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='636' y='135.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Факторы дизайна</text>
+<text x='636' y='155.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>6 культур · 8 субстратов</text>
+<text x='636' y='175.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>200 семян на группу и культуру</text>
+<text x='636' y='195.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>13 x 200 x 6 = 15,600 семян</text>
+<text x='636' y='216.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ ЧИСЛО ДИЗАЙНА, НЕ ИСПЫТАНИЕ</text>
+<rect x='622' y='302' width='454' height='170' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='636' y='333.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Канал 14 (мутагенез)</text>
+<text x='636' y='353.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>отдельная гипотеза, без группы и данных</text>
+<text x='636' y='373.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>комбинации 14, 14+17, 14+19</text>
+<text x='636' y='394.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ ТОЛЬКО ГИПОТЕЗА</text>
+<text x='24' y='464' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Два фото помечены ch17 только в свободном тексте манифеста; ни одно</text>
+<text x='24' y='484' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>фото не лежит в корзине.</text>
+</svg>

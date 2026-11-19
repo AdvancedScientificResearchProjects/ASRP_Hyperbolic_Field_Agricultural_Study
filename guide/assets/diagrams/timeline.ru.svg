@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-labelledby="t d">
+<title id="t">План и то, что произошло</title>
+<desc id="d">Две дорожки, без масштаба. Первая, план: 2026 Q1 Март: протокол v8.3 финализирован; 2026 Q2 Апр: оборудование, май: пилот, июнь: старт основного; 2026 Q3 Июль-авг: основной эксперимент, сен: мониторинг роста; 2026 Q4 Окт-ноя: мониторинг роста, дек: старт анализа; 2027 Q1 Янв: анализ данных, фев-март: публикация. Вторая, пилотный слой: 2026-05-02 Первое фото набора из 23; 2026-06-04 Маркированная пара гороха; плесень в контроле; 2026-06-16 Слепая панель по редису: один кадр, одна модель; 2026-06-29 Заложен exp29 (2 x 2 семена x вода); 2026-07-02 Микроскопия, пилот, 8 кадров; 2026-07-03 Анализ паттернов, 52 кадра; 2026-07-07 Спроектирован слепой протокол с перципиентами; результата нет; 2026-07-08 Получена партия ранних образцов; анализа нет.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='520' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>План и то, что произошло</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Без масштаба; каждая дата пилота взята из одного текста репозитория</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ХРОНОЛОГИЯ</text>
+<text x='24' y='100' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#a78bfa' text-anchor='start' font-weight='800'>ПЛАН (СХЕМА В РЕПОЗИТОРИИ)</text>
+<line x1='24' y1='118' x2='1176' y2='118' stroke='#a78bfa' stroke-width='2' stroke-opacity='0.6'/>
+<circle cx='136.0' cy='118' r='6' fill='#a78bfa'/>
+<rect x='24.0' y='134' width='224.0' height='118' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='34.0' y='160.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026 Q1</text>
+<text x='34.0' y='180.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Март: протокол v8.3</text>
+<text x='34.0' y='200.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>финализирован</text>
+<text x='34.0' y='221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ ПЛАН</text>
+<circle cx='368.0' cy='118' r='6' fill='#a78bfa'/>
+<rect x='256.0' y='134' width='224.0' height='118' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='266.0' y='160.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026 Q2</text>
+<text x='266.0' y='180.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Апр: оборудование, май:</text>
+<text x='266.0' y='200.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>пилот, июнь: старт основного</text>
+<text x='266.0' y='221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ ПЛАН</text>
+<circle cx='600.0' cy='118' r='6' fill='#a78bfa'/>
+<rect x='488.0' y='134' width='224.0' height='118' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='498.0' y='160.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026 Q3</text>
+<text x='498.0' y='180.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Июль-авг: основной</text>
+<text x='498.0' y='200.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>эксперимент, сен:</text>
+<text x='498.0' y='220.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>мониторинг роста</text>
+<text x='498.0' y='241.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ ПЛАН</text>
+<circle cx='832.0' cy='118' r='6' fill='#a78bfa'/>
+<rect x='720.0' y='134' width='224.0' height='118' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='730.0' y='160.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026 Q4</text>
+<text x='730.0' y='180.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Окт-ноя: мониторинг роста,</text>
+<text x='730.0' y='200.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>дек: старт анализа</text>
+<text x='730.0' y='221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ ПЛАН</text>
+<circle cx='1064.0' cy='118' r='6' fill='#a78bfa'/>
+<rect x='952.0' y='134' width='224.0' height='118' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='962.0' y='160.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2027 Q1</text>
+<text x='962.0' y='180.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Янв: анализ данных,</text>
+<text x='962.0' y='200.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>фев-март: публикация</text>
+<text x='962.0' y='221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ ПЛАН</text>
+<text x='24' y='270' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='800'>ЧТО ЕСТЬ (ДАТИРОВАННЫЕ ФАЙЛЫ)</text>
+<line x1='24' y1='288' x2='1176' y2='288' stroke='#4ecdc4' stroke-width='2' stroke-opacity='0.6'/>
+<circle cx='92.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='24.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='34.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-05-02</text>
+<text x='34.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Первое фото</text>
+<text x='34.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>набора из 23</text>
+<circle cx='237.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='169.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='179.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-06-04</text>
+<text x='179.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Маркированная</text>
+<text x='179.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>пара гороха;</text>
+<text x='179.0' y='390.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>плесень в</text>
+<text x='179.0' y='410.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>контроле</text>
+<circle cx='382.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='314.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='324.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-06-16</text>
+<text x='324.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Слепая панель</text>
+<text x='324.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>по редису: один</text>
+<text x='324.0' y='390.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>кадр, одна</text>
+<text x='324.0' y='410.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>модель</text>
+<circle cx='527.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='459.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='469.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-06-29</text>
+<text x='469.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Заложен exp29</text>
+<text x='469.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>(2 x 2 семена x</text>
+<text x='469.0' y='390.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>вода)</text>
+<circle cx='672.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='604.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='614.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-07-02</text>
+<text x='614.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Микроскопия,</text>
+<text x='614.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>пилот, 8 кадров</text>
+<circle cx='817.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='749.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='759.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-07-03</text>
+<text x='759.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Анализ</text>
+<text x='759.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>паттернов, 52</text>
+<text x='759.0' y='390.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>кадра</text>
+<circle cx='962.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='894.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='904.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-07-07</text>
+<text x='904.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Спроектирован</text>
+<text x='904.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>слепой протокол</text>
+<text x='904.0' y='390.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>с</text>
+<text x='904.0' y='410.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>перципиентами;</text>
+<text x='904.0' y='430.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>результата нет</text>
+<circle cx='1107.5' cy='288' r='6' fill='#4ecdc4'/>
+<rect x='1039.0' y='304' width='137.0' height='160' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='1049.0' y='330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-07-08</text>
+<text x='1049.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Получена партия</text>
+<text x='1049.0' y='370.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ранних образцов;</text>
+<text x='1049.0' y='390.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>анализа нет</text>
+<text x='24' y='484' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Кварталы взяты со схемы плана charts/mermaid/root_2.png; репозиторий</text>
+<text x='24' y='504' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>не говорит, соблюдались ли они.</text>
+</svg>
