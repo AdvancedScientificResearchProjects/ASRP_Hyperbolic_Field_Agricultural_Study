@@ -18,7 +18,9 @@ The planned trial has <!--n:rct_bins-->13<!--/n--> groups: one control and chann
 
 ## Treatment groups
 
-![Diagram 1](../charts/mermaid/root_1.png)
+![Treatment groups: control C0 and channels 17, 19, 21 with four modes each, all leading to Measurements](assets/diagrams/treatment-groups.en.svg)
+
+Original figure: [`charts/mermaid/root_1.png`](../charts/mermaid/root_1.png)
 
 > **Channel 14 (Mutagenic):** Separate investigation of mutagenic effects on seed germination, which must be included in the hypotheses.
 
@@ -56,6 +58,8 @@ The emitter hardware itself is not described anywhere in the repository.
 
 ## Planned timeline
 
-![Diagram 2](../charts/mermaid/root_2.png)
+![Planned schedule: five quarters from March 2026 to March 2027](assets/diagrams/planned-schedule.en.svg)
+
+Original figure: [`charts/mermaid/root_2.png`](../charts/mermaid/root_2.png)
 
 The schedule is about 7 months in 7 phases: protocol finalisation in March 2026, equipment set-up in April, a pilot in May, the main experiment from June, growth monitoring, data analysis from December, publication in February-March 2027. Issues #4 to #8 for these phases are still open on the previous README's list, with due dates in Q2-Q3 2026 ([ecosystem page](ECOSYSTEM.md#active-issues-and-tasks)). The dated pilot work that did happen is on the [timeline](PILOT.md#what-exists-today).

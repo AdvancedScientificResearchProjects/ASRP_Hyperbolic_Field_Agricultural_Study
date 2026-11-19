@@ -49,6 +49,7 @@
 | <img src="guide/assets/icons/pilot.svg" width="44" alt="pilot icon"> | **[Pilot data](guide/PILOT.md)** | <!--n:photos-->23<!--/n--> photos, exp29, the radish panel, two microscopy analyses, the percipient layer |
 | <img src="guide/assets/icons/evidence.svg" width="44" alt="evidence icon"> | **[Evidence](guide/EVIDENCE.md)** | claimed versus shown, each row with its source file |
 | <img src="guide/assets/icons/ecosystem.svg" width="44" alt="ecosystem icon"> | **[IP, team and ecosystem](guide/ECOSYSTEM.md)** | patent application, team, <!--n:issues_total-->7<!--/n--> issues, space context, sibling studies |
+| <img src="guide/assets/icons/design.svg" width="44" alt="figures icon"> | **[Figure gallery](guide/FIGURES.md)** | every figure and photo set of the repository, with what it shows and where it lives |
 | <img src="guide/assets/icons/navigation.svg" width="44" alt="navigation icon"> | **[Navigation and structure](guide/NAVIGATION.md)** | where things are, the data layout, the folder tree |
 | <img src="guide/assets/icons/open.svg" width="44" alt="open icon"> | **[Open questions](guide/OPEN.md)** | gaps and inconsistencies found, what was not verified |
 | <img src="guide/assets/icons/archive.svg" width="44" alt="ethics icon"> | **[Ethics, IP and security](guide/ETHICS.md)** | what the study handles, classification, contact, disclaimer |
@@ -186,7 +187,9 @@ The repository does not name the applicants. An application is not a granted pat
 |---|---|---|
 | **Fractal Biomedical System** | KZ 2025/1095.1 | [View](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) |
 
-![Diagram 3](charts/mermaid/root_3.png)
+![Patent application KZ 2025/1095.1, emitter technology and three studies](guide/assets/diagrams/patent-link.en.svg)
+
+Original figure: [`charts/mermaid/root_3.png`](charts/mermaid/root_3.png)
 <!-- /excerpt -->
 
 Full page: [IP, team and ecosystem](guide/ECOSYSTEM.md)

@@ -47,6 +47,7 @@
 | <img src="guide/assets/icons/pilot.svg" width="44" alt="значок пилота"> | **[Пилотные данные](guide/PILOT.ru.md)** | <!--n:photos-->23<!--/n--> фото, exp29, панель по редису, два микроскопических анализа, перципиентный слой |
 | <img src="guide/assets/icons/evidence.svg" width="44" alt="значок доказательств"> | **[Доказательства](guide/EVIDENCE.ru.md)** | заявлено и показано, у каждой строки файл-источник |
 | <img src="guide/assets/icons/ecosystem.svg" width="44" alt="значок экосистемы"> | **[ИС, команда и экосистема](guide/ECOSYSTEM.ru.md)** | патентная заявка, команда, <!--n:issues_total-->7<!--/n--> задач, космический контекст, соседние исследования |
+| <img src="guide/assets/icons/design.svg" width="44" alt="значок рисунков"> | **[Галерея рисунков](guide/FIGURES.ru.md)** | все рисунки и наборы фото репозитория: что показывают и где лежат |
 | <img src="guide/assets/icons/navigation.svg" width="44" alt="значок навигации"> | **[Навигация и структура](guide/NAVIGATION.ru.md)** | где что лежит, раскладка данных, дерево папок |
 | <img src="guide/assets/icons/open.svg" width="44" alt="значок вопросов"> | **[Открытые вопросы](guide/OPEN.ru.md)** | найденные пробелы и несоответствия, что не проверено |
 | <img src="guide/assets/icons/archive.svg" width="44" alt="значок этики"> | **[Этика, ИС и безопасность](guide/ETHICS.ru.md)** | с чем работает исследование, классификация, контакты, оговорка |
@@ -179,7 +180,9 @@
 |---|---|---|
 | **Фрактальная биомедицинская система** | KZ 2025/1095.1 | [Просмотр](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) |
 
-![Диаграмма 3](charts/mermaid/root_3.png)
+![Патентная заявка KZ 2025/1095.1, технология излучателей и три исследования](guide/assets/diagrams/patent-link.ru.svg)
+
+Исходная схема: [`charts/mermaid/root_3.png`](charts/mermaid/root_3.png)
 <!-- /excerpt -->
 
 Полная страница: [ИС, команда и экосистема](guide/ECOSYSTEM.ru.md)
