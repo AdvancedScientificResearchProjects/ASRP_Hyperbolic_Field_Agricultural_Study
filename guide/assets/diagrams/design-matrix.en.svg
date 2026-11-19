@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 500" width="1100" height="500" role="img" aria-labelledby="t d">
+<title id="t">The planned 13 groups: all bins empty</title>
+<desc id="d">A table of the 13 planned groups of protocol v8.3: one control group, and channels 17, 19 and 21 each in four modes, direct, water, crystal and combined. Every cell reads zero photos, 13 of 13 bins are empty placeholders. On the right the design factors: 6 crops, 8 substrates, 200 seeds per group and crop, 15,600 seeds in total, a design number and not an executed trial. Channel 14, mutagenesis, is a separate hypothesis without a group.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1100' height='500' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>The planned 13 groups: all bins empty</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Protocol v8.3 layout (data/ bins); photos are not attributed to groups</text>
+<text x='1076' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>DESIGN</text>
+<rect x='104' y='104' width='118' height='74' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='163.0' y='139.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>control</text>
+<text x='163.0' y='159.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 photos</text>
+<text x='163.0' y='218' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='middle' font-weight='700'>direct</text>
+<text x='289.0' y='218' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='middle' font-weight='700'>water</text>
+<text x='415.0' y='218' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='middle' font-weight='700'>crystal</text>
+<text x='541.0' y='218' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='middle' font-weight='700'>combined</text>
+<text x='24' y='268' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#ffcf5c' text-anchor='start' font-weight='800'>ch17</text>
+<rect x='104' y='230' width='118' height='64' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='163.0' y='269.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 photos</text>
+<rect x='230' y='230' width='118' height='64' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='289.0' y='269.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 photos</text>
+<rect x='356' y='230' width='118' height='64' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='415.0' y='269.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 photos</text>
+<rect x='482' y='230' width='118' height='64' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='541.0' y='269.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 photos</text>
+<text x='24' y='340' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#a78bfa' text-anchor='start' font-weight='800'>ch19</text>
+<rect x='104' y='302' width='118' height='64' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='163.0' y='341.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 photos</text>
+<rect x='230' y='302' width='118' height='64' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='289.0' y='341.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 photos</text>
+<rect x='356' y='302' width='118' height='64' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='415.0' y='341.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 photos</text>
+<rect x='482' y='302' width='118' height='64' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='541.0' y='341.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 photos</text>
+<text x='24' y='412' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#6f9bff' text-anchor='start' font-weight='800'>ch21</text>
+<rect x='104' y='374' width='118' height='64' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='163.0' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 photos</text>
+<rect x='230' y='374' width='118' height='64' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='289.0' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 photos</text>
+<rect x='356' y='374' width='118' height='64' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='415.0' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 photos</text>
+<rect x='482' y='374' width='118' height='64' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='541.0' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0 photos</text>
+<rect x='622' y='104' width='454' height='186' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='636' y='135.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Design factors</text>
+<text x='636' y='155.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>6 crops · 8 substrates</text>
+<text x='636' y='175.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>200 seeds per group and crop</text>
+<text x='636' y='195.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>13 x 200 x 6 = 15,600 seeds</text>
+<text x='636' y='216.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ DESIGN NUMBER, NOT A TRIAL</text>
+<rect x='622' y='302' width='454' height='170' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='636' y='333.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Channel 14 (mutagenesis)</text>
+<text x='636' y='353.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>a separate hypothesis, no group, no data</text>
+<text x='636' y='373.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>combinations 14, 14+17, 14+19</text>
+<text x='636' y='394.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ HYPOTHESIS ONLY</text>
+<text x='24' y='464' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Two photos are tagged ch17 in the manifest free text only; no photo</text>
+<text x='24' y='484' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>sits in any bin.</text>
+</svg>
