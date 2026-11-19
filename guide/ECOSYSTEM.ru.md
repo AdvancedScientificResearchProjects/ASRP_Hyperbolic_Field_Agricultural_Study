@@ -22,7 +22,9 @@
 |---|---|---|
 | **Фрактальная биомедицинская система** | KZ 2025/1095.1 | [Просмотр](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) |
 
-![Диаграмма 3](../charts/mermaid/root_3.png)
+![Патентная заявка KZ 2025/1095.1, технология излучателей и три исследования](assets/diagrams/patent-link.ru.svg)
+
+Исходная схема: [`charts/mermaid/root_3.png`](../charts/mermaid/root_3.png)
 
 ## Команда
 

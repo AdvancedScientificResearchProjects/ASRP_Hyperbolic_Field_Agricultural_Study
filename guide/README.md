@@ -21,6 +21,7 @@ Detail pages behind the [front-page README](../README.md). Numbers on these page
 | <img src="assets/icons/pilot.svg" width="30" alt="pilot icon"> | [Pilot data](PILOT.md) | the photo set, exp29, the radish panel, two microscopy analyses, the percipient layer |
 | <img src="assets/icons/evidence.svg" width="30" alt="evidence icon"> | [Evidence](EVIDENCE.md) | claimed versus shown, every row with its source file |
 | <img src="assets/icons/ecosystem.svg" width="30" alt="ecosystem icon"> | [IP, team and ecosystem](ECOSYSTEM.md) | patent application, team, issues, space context, sibling studies |
+| <img src="assets/icons/design.svg" width="30" alt="figures icon"> | [Figure gallery](FIGURES.md) | every figure and photo set of the repository, with what it shows and where it lives |
 | <img src="assets/icons/navigation.svg" width="30" alt="navigation icon"> | [Navigation and structure](NAVIGATION.md) | where things are, the data layout, the folder tree |
 | <img src="assets/icons/open.svg" width="30" alt="open icon"> | [Open questions](OPEN.md) | gaps and inconsistencies found, what was not verified |
 | <img src="assets/icons/archive.svg" width="30" alt="ethics icon"> | [Ethics, IP and security](ETHICS.md) | what the study handles, classification, contact, disclaimer |

@@ -22,7 +22,9 @@ The repository does not name the applicants. An application is not a granted pat
 |---|---|---|
 | **Fractal Biomedical System** | KZ 2025/1095.1 | [View](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) |
 
-![Diagram 3](../charts/mermaid/root_3.png)
+![Patent application KZ 2025/1095.1, emitter technology and three studies](assets/diagrams/patent-link.en.svg)
+
+Original figure: [`charts/mermaid/root_3.png`](../charts/mermaid/root_3.png)
 
 ## Research team
 
