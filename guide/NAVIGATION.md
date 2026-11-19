@@ -102,7 +102,7 @@ ASRP_Hyperbolic_Field_Agricultural_Study/
 │   ├── 2026-06-29_exp29-setup-observation/     # exp29 set-up observation (Russian only)
 │   ├── 2026-07-02_microscopy-cell-structure/   # microscopy pilot, colour and cell shape
 │   ├── 2026-07-03_pattern-embedding-analysis/  # 52 frames: embeddings, nuclei, patterns
-│   └── percipient_reports/                     # subjective percipient layer (private; participant folders not described)
+│   └── percipient_reports/                     # subjective percipient layer (participant folders not described)
 ├── results/                                    # llm_blind: 10 runs and their key
 └── scripts/                                    # llm_analysis: the blind-panel script
 ```

@@ -34,7 +34,7 @@ SPEC = [
         ("reports/2026-06-29_exp29-setup-observation/", "exp29 set-up observation (Russian only)", "наблюдение закладки exp29 (только на русском)"),
         ("reports/2026-07-02_microscopy-cell-structure/", "microscopy pilot, colour and cell shape", "микроскопия, пилот: цвет и форма клеток"),
         ("reports/2026-07-03_pattern-embedding-analysis/", "{frames_total} frames: embeddings, nuclei, patterns", "{frames_total} кадра: эмбеддинги, ядра, паттерны"),
-        ("reports/percipient_reports/", "subjective percipient layer (private; participant folders not described)", "субъективный перципиентный слой (приватно; папки участников не описаны)"),
+        ("reports/percipient_reports/", "subjective percipient layer (participant folders not described)", "субъективный перципиентный слой (папки участников не описаны)"),
     ]),
     ("results/", "llm_blind: {llm_runs} runs and their key", "llm_blind: {llm_runs} прогонов и ключ"),
     ("scripts/", "llm_analysis: the blind-panel script", "llm_analysis: скрипт слепой панели"),

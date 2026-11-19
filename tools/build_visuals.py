@@ -61,7 +61,7 @@ BANNER = {
     "en": {
         "title": "Hyperbolic Field on Plants",
         "kicker": "AGRICULTURAL STUDY",
-        "tag": "PRIVATE · NO RCT RESULTS YET",
+        "tag": "NO RCT RESULTS YET",
         "sub": ["A 13-group trial is planned in full;", "so far only a pilot layer exists"],
         "chips": ["{rct_bins} groups planned, {rct_bins_empty} without data", "{photos} pilot photos", "{llm_runs} runs on one frame"],
         "foot": "grid = the planned groups; every cell is still empty",
@@ -73,7 +73,7 @@ BANNER = {
     "ru": {
         "title": "Гиперполе и растения",
         "kicker": "АГРОНОМИЧЕСКОЕ ИССЛЕДОВАНИЕ",
-        "tag": "ПРИВАТНО · РЕЗУЛЬТАТОВ RCT ПОКА НЕТ",
+        "tag": "РЕЗУЛЬТАТОВ RCT ПОКА НЕТ",
         "sub": ["Испытание на 13 групп описано полностью;", "пока есть только пилотный слой"],
         "chips": ["{rct_bins} групп, {rct_bins_empty} пустых", "{photos} фото", "{llm_runs} прогонов, 1 кадр"],
         "foot": "сетка = группы плана; каждая ячейка пока пуста",

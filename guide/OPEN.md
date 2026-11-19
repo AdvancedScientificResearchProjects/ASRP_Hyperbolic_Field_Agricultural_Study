@@ -23,7 +23,7 @@ These are gaps and inconsistencies found while restructuring. Source files were 
 9. **Hot-linked diagrams.** The old front page loaded its three diagrams from an older public repository name; the showcase points to the committed files instead. (`README.md:129`)
 10. **Which folders are on which security level.** The 4-level classification is stated, but no folder is assigned a level. (`README.md:303`)
 11. **Planned versus real schedule.** Phase issues #4 to #8 are open with Q2-Q3 2026 due dates and the plan diagram expects the main experiment to start in June 2026; the repository records no main experiment. (`README.md:100`)
-12. **Percipient layer.** Whether participants consented to being referred to in a private team repository is not recorded here; the files stay private and are not described on these pages. (`reports/percipient_reports/`)
+12. **Percipient layer.** Whether participants consented to being referred to in this (public) repository is not recorded here; the files are not described on these pages. (`reports/percipient_reports/`)
 13. **GitHub issues.** The issue table was copied from the previous README; the issues were not re-read.
 
 ## Not verified by the showcase

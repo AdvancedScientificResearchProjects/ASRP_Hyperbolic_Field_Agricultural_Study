@@ -16,7 +16,7 @@
 
 This study belongs to ASRP's **hyperbolic-field** research family and uses the emitter and channel technology that is the IP basis of the **Fractal Biomedical System (FBHFS)** filing, shared across the hyperbolic-field studies (blood plasma, yeast, crystal, agriculture). That filing is **patent application KZ 2025/1095.1: an application, not a granted patent**. The previous README describes it as in substantive examination; this repository holds no independent confirmation of that status. This agricultural study is exploratory and asserts no separate IP claim of its own.
 
-The repository does not name the applicants. Outside this repository (ASRP memory, owner ruling) the applicants of the ASRP patent filings are individuals, and the company is a correspondence address or fee payer only. The previous README lists the company only in its contact block and never says that it holds any patent.
+The repository does not name the applicants. An application is not a granted patent. The previous README lists the company only in its contact block and never says that it holds any patent.
 
 | Patent | Application | Link |
 |---|---|---|

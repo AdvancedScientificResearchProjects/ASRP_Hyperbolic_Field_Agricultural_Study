@@ -27,7 +27,7 @@
 
 </div>
 
-> This is a private research repository. A trial is planned in full; **no RCT results exist yet**, and the pilot analyses are preliminary. A patent application is an IP claim, not validation of an effect.
+> A trial is planned in full; **no RCT results exist yet**, and the pilot analyses are preliminary. A patent application is an IP claim, not validation of an effect.
 
 <!-- legacy-anchors --><a name="hyperbolic-field-agricultural-study--исследование-влияния-гиперболических-полей-на-сельское-хозяйство"></a><a name="navigation-index--навигационный-индекс"></a>
 ## At a glance
@@ -180,7 +180,7 @@ Full page: [Evidence](guide/EVIDENCE.md)
 
 This study belongs to ASRP's **hyperbolic-field** research family and uses the emitter and channel technology that is the IP basis of the **Fractal Biomedical System (FBHFS)** filing, shared across the hyperbolic-field studies (blood plasma, yeast, crystal, agriculture). That filing is **patent application KZ 2025/1095.1: an application, not a granted patent**. The previous README describes it as in substantive examination; this repository holds no independent confirmation of that status. This agricultural study is exploratory and asserts no separate IP claim of its own.
 
-The repository does not name the applicants. Outside this repository (ASRP memory, owner ruling) the applicants of the ASRP patent filings are individuals, and the company is a correspondence address or fee payer only. The previous README lists the company only in its contact block and never says that it holds any patent.
+The repository does not name the applicants. An application is not a granted patent. The previous README lists the company only in its contact block and never says that it holds any patent.
 
 | Patent | Application | Link |
 |---|---|---|
@@ -221,7 +221,7 @@ ASRP_Hyperbolic_Field_Agricultural_Study/
 │   ├── 2026-06-29_exp29-setup-observation/     # exp29 set-up observation (Russian only)
 │   ├── 2026-07-02_microscopy-cell-structure/   # microscopy pilot, colour and cell shape
 │   ├── 2026-07-03_pattern-embedding-analysis/  # 52 frames: embeddings, nuclei, patterns
-│   └── percipient_reports/                     # subjective percipient layer (private; participant folders not described)
+│   └── percipient_reports/                     # subjective percipient layer (participant folders not described)
 ├── results/                                    # llm_blind: 10 runs and their key
 └── scripts/                                    # llm_analysis: the blind-panel script
 ```

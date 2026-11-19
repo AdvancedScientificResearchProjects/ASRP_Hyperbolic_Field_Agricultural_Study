@@ -45,7 +45,7 @@ The numbers of the 07-03 report can be recomputed from the committed [`per_frame
 
 ## The percipient layer
 
-A small subjective layer: impressions of percipients on photographs of plant trays, summarised in [`reports/percipient_reports/`](../reports/percipient_reports/). The summary itself rates it as **hypothesis-generating, not measurement** (n=3, codes assigned afterwards, no scales); fractal "censor" sessions were not blind and carry no evidential value. As of 2026-07-07 a blind plant protocol was being designed; the key file for <!--n:plant_key_rows-->6<!--/n--> frames exists but **holds no results**. Participant files are private and are not described on these pages.
+A small subjective layer: impressions of percipients on photographs of plant trays, summarised in [`reports/percipient_reports/`](../reports/percipient_reports/). The summary itself rates it as **hypothesis-generating, not measurement** (n=3, codes assigned afterwards, no scales); fractal "censor" sessions were not blind and carry no evidential value. As of 2026-07-07 a blind plant protocol was being designed; the key file for <!--n:plant_key_rows-->6<!--/n--> frames exists but **holds no results**. Participant files are not described on these pages.
 
 ## The incoming batch
 

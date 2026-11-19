@@ -102,7 +102,7 @@ ASRP_Hyperbolic_Field_Agricultural_Study/
 │   ├── 2026-06-29_exp29-setup-observation/     # наблюдение закладки exp29 (только на русском)
 │   ├── 2026-07-02_microscopy-cell-structure/   # микроскопия, пилот: цвет и форма клеток
 │   ├── 2026-07-03_pattern-embedding-analysis/  # 52 кадра: эмбеддинги, ядра, паттерны
-│   └── percipient_reports/                     # субъективный перципиентный слой (приватно; папки участников не описаны)
+│   └── percipient_reports/                     # субъективный перципиентный слой (папки участников не описаны)
 ├── results/                                    # llm_blind: 10 прогонов и ключ
 └── scripts/                                    # llm_analysis: скрипт слепой панели
 ```
