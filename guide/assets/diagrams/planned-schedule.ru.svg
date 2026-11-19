@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 396" width="1200" height="396" role="img" aria-labelledby="t d">
+<title id="t">План по срокам, пять кварталов</title>
+<desc id="d">Перерисованная схема, пять кварталов слева направо: 2026 К1: Мар: Финализация протокола v8.3; 2026 К2: Апр: Настройка оборудования, Май: Пилотный эксперимент, Июн: Начало основного эксперимента; 2026 К3: Июл-Авг: Основной эксперимент, Сен: Мониторинг роста; 2026 К4: Окт-Ноя: Мониторинг роста, Дек: Начало анализа; 2027 К1: Янв: Анализ данных, Фев-Мар: Публикация. Всё это план.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='396' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>План по срокам, пять кварталов</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Перерисовано с charts/mermaid/root_2.png; те же кварталы и этапы</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ПЛАН</text>
+<rect x='24.0' y='104' width='211.2' height='200' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='36.0' y='133.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2026 К1</text>
+<text x='36.0' y='153.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Мар: Финализация</text>
+<text x='36.0' y='173.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>протокола v8.3</text>
+<text x='36.0' y='194.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ ПЛАН</text>
+<defs><marker id='m8ea0d6' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#8ea0d6'/></marker></defs>
+<path d='M237.2,204.0 L257.2,204.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='259.2' y='104' width='211.2' height='200' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='271.2' y='133.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2026 К2</text>
+<text x='271.2' y='153.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Апр: Настройка</text>
+<text x='271.2' y='173.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>оборудования</text>
+<text x='271.2' y='193.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Май: Пилотный</text>
+<text x='271.2' y='213.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>эксперимент</text>
+<text x='271.2' y='233.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Июн: Начало основного</text>
+<text x='271.2' y='253.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>эксперимента</text>
+<text x='271.2' y='274.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ ПЛАН</text>
+<path d='M472.4,204.0 L492.4,204.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='494.4' y='104' width='211.2' height='200' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='506.4' y='133.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2026 К3</text>
+<text x='506.4' y='153.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Июл-Авг: Основной</text>
+<text x='506.4' y='173.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>эксперимент</text>
+<text x='506.4' y='193.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Сен: Мониторинг роста</text>
+<text x='506.4' y='214.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ ПЛАН</text>
+<path d='M707.6,204.0 L727.6,204.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='729.5999999999999' y='104' width='211.2' height='200' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='741.5999999999999' y='133.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2026 К4</text>
+<text x='741.5999999999999' y='153.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Окт-Ноя: Мониторинг</text>
+<text x='741.5999999999999' y='173.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>роста</text>
+<text x='741.5999999999999' y='193.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Дек: Начало анализа</text>
+<text x='741.5999999999999' y='214.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ ПЛАН</text>
+<path d='M942.8,204.0 L962.8,204.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='964.8' y='104' width='211.2' height='200' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='976.8' y='133.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2027 К1</text>
+<text x='976.8' y='153.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Янв: Анализ данных</text>
+<text x='976.8' y='173.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Фев-Мар: Публикация</text>
+<text x='976.8' y='194.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ ПЛАН</text>
+<text x='24' y='360' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Как нарисовано в прежнем README; репозиторий не говорит, соблюдался</text>
+<text x='24' y='380' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ли график.</text>
+</svg>

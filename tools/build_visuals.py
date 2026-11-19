@@ -11,6 +11,7 @@ Output (English and Russian twin for every picture)
     guide/assets/diagrams/timeline.{en,ru}.svg            planned schedule vs what actually happened
     guide/assets/diagrams/evidence-ladder.{en,ru}.svg     from plan to RCT result: which rungs exist
     guide/assets/diagrams/family-map.{en,ru}.svg          where the study sits in the hyperbolic-field family
+    guide/assets/diagrams/{treatment-groups,planned-schedule,patent-link}.{en,ru}.svg   redrawn charts/mermaid/root_1..3.png
     guide/assets/icons/*.svg                              navigation icons
 
 Every number printed on a picture comes from tools/facts.py (computed from the repository at build time).
@@ -426,6 +427,126 @@ def family(lang):
     return "\n".join(cv.o + ["</svg>\n"])
 
 
+# --- redrawn mermaid schemas (charts/mermaid/root_1..3.png) -------------------------------------
+MODE_LAB = {"en": ["Direct", "Water", "Crystal", "Combined"], "ru": ["Прямой", "Вода", "Кристалл", "Комбинированный"]}
+GROUPS = {
+    "en": {"title": "Treatment groups", "tag": "PLANNED DESIGN", "sub": "Redrawn from charts/mermaid/root_1.png; same boxes and edges",
+           "control": ["C0: Control"], "chan": "Channel {n}", "meas": "Measurements",
+           "desc": ("Redrawn schema. Control C0 and three channels, 17, 19 and 21, each with four modes: direct, water, crystal, combined. "
+                    "Control and all three channels lead to one box, Measurements. {rct_bins} groups planned, {rct_bins_empty} without data."),
+           "foot": "A plan: {rct_bins_empty} of {rct_bins} group folders hold no data. Channel 14 (mutagenic) is not in the original figure."},
+    "ru": {"title": "Группы обработки", "tag": "ПЛАН ДИЗАЙНА", "sub": "Перерисовано с charts/mermaid/root_1.png; те же блоки и связи",
+           "control": ["C0: Контроль"], "chan": "Канал {n}", "meas": "Измерения",
+           "desc": ("Перерисованная схема. Контроль C0 и три канала, 17, 19 и 21, каждый в четырёх режимах: прямой, вода, кристалл, комбинированный. "
+                    "Контроль и все три канала ведут в один блок, Измерения. Запланировано {rct_bins} групп, {rct_bins_empty} без данных."),
+           "foot": "План: в {rct_bins_empty} из {rct_bins} папок групп данных нет. Канала 14 (мутагенного) на исходной схеме нет."},
+}
+
+
+def groups(lang):
+    c = GROUPS[lang]
+    W, H = 1200, 556
+    cv = Canvas(W, H, c["title"], fmt(c["desc"]), c["title"], c["sub"], c["tag"])
+    cols = [AMBER, BLUE, GREEN]
+    px, pw, pg = 230, 280, 20
+    cv.box(24, 210, 170, None, c["control"], stroke=MUTED, h=56, center=True, title_size=15)
+    for i, ch in enumerate(CHANNELS):
+        x = px + i * (pw + pg)
+        cv.panel(x, 100, pw, 306, c["chan"].format(n=ch), cols[i])
+        for j, m in enumerate(MODE_LAB[lang]):
+            cv.box(x + 20, 144 + j * 64, pw - 40, m, [], stroke=cols[i], h=52, center=True)
+    bus = 430
+    cv.o.append("<path d='M109,266 L109,%d L%d,%d' fill='none' stroke='%s' stroke-width='2'/>" % (bus, px + 2 * (pw + pg) + pw / 2, bus, MUTED))
+    for i in range(3):
+        cx = px + i * (pw + pg) + pw / 2
+        cv.o.append("<line x1='%.1f' y1='406' x2='%.1f' y2='%d' stroke='%s' stroke-width='2'/>" % (cx, cx, bus, MUTED))
+    cv.arrow([(600, bus), (600, 456)], MUTED)
+    cv.box(490, 458, 220, c["meas"], [], stroke=VIOLET, h=48, center=True)
+    foot(cv, fmt(c["foot"]), H - 16)
+    return "\n".join(cv.o + ["</svg>\n"])
+
+
+QUARTERS = {
+    "en": [("2026 Q1", ["Mar: Protocol Finalization v8.3"]),
+           ("2026 Q2", ["Apr: Equipment Setup", "May: Pilot Experiment", "Jun: Main Experiment Start"]),
+           ("2026 Q3", ["Jul-Aug: Main Experiment", "Sep: Growth Monitoring"]),
+           ("2026 Q4", ["Oct-Nov: Growth Monitoring", "Dec: Data Analysis Start"]),
+           ("2027 Q1", ["Jan: Data Analysis", "Feb-Mar: Publication"])],
+    "ru": [("2026 К1", ["Мар: Финализация протокола v8.3"]),
+           ("2026 К2", ["Апр: Настройка оборудования", "Май: Пилотный эксперимент", "Июн: Начало основного эксперимента"]),
+           ("2026 К3", ["Июл-Авг: Основной эксперимент", "Сен: Мониторинг роста"]),
+           ("2026 К4", ["Окт-Ноя: Мониторинг роста", "Дек: Начало анализа"]),
+           ("2027 К1", ["Янв: Анализ данных", "Фев-Мар: Публикация"])],
+}
+PLANFIG = {
+    "en": {"title": "Planned schedule, five quarters", "tag": "PLAN", "sub": "Redrawn from charts/mermaid/root_2.png; same quarters and phases",
+           "state": "◇ PLANNED", "desc": "Redrawn schema, five quarters left to right: {q}. All of it is a plan.",
+           "foot": "As drawn in the previous README; the repository does not say whether the schedule was kept."},
+    "ru": {"title": "План по срокам, пять кварталов", "tag": "ПЛАН", "sub": "Перерисовано с charts/mermaid/root_2.png; те же кварталы и этапы",
+           "state": "◇ ПЛАН", "desc": "Перерисованная схема, пять кварталов слева направо: {q}. Всё это план.",
+           "foot": "Как нарисовано в прежнем README; репозиторий не говорит, соблюдался ли график."},
+}
+
+
+def planfig(lang):
+    c = PLANFIG[lang]
+    desc = c["desc"].format(q="; ".join("%s: %s" % (t, ", ".join(l)) for t, l in QUARTERS[lang]))
+    W, H = 1200, 396
+    cv = Canvas(W, H, c["title"], desc, c["title"], c["sub"], c["tag"])
+    n, gap = 5, 24
+    bw = (W - 48 - gap * (n - 1)) / n
+    for i, (t, ls) in enumerate(QUARTERS[lang]):
+        x = 24 + i * (bw + gap)
+        cv.box(x, 104, bw, t, ls, status=[(c["state"], VIOLET)], stroke=VIOLET, h=200, valign="top", title_size=15, pad=12)
+        if i < n - 1:
+            cv.arrow([(x + bw + 2, 204), (x + bw + gap - 2, 204)], MUTED)
+    foot(cv, c["foot"], H - 16)
+    return "\n".join(cv.o + ["</svg>\n"])
+
+
+PATENT = {
+    "en": {"title": "Study, technology and patent application", "tag": "IP LINK", "sub": "Redrawn from charts/mermaid/root_3.png; same boxes and edges",
+           "top": ("KZ 2025/1095.1", ["Fractal Biomedical Hyperbolic Field System", "Substantive Exam"],
+                   ["◇ APPLICATION, NOT A GRANTED PATENT", "◧ DECLARED, NOT VERIFIED HERE"]),
+           "mid": "Hyperbolic Field Emitter Technology",
+           "kids": [("This Study", ["Agricultural Research"], True), ("Blood Plasma Study", [], False), ("DAAT Crystal Study", [], False)],
+           "desc": ("Redrawn schema. Application KZ 2025/1095.1, Fractal Biomedical Hyperbolic Field System, substantive exam, an application and not a "
+                    "granted patent, as the previous README states it. It leads to Hyperbolic Field Emitter Technology, which leads to three "
+                    "studies: this agricultural study, blood plasma, DAAT crystal."),
+           "foot": "The repository does not name the applicants and shows no shared data between the studies."},
+    "ru": {"title": "Исследование, технология и патентная заявка", "tag": "СВЯЗЬ С ИС", "sub": "Перерисовано с charts/mermaid/root_3.png; те же блоки и связи",
+           "top": ("KZ 2025/1095.1", ["Fractal Biomedical Hyperbolic Field System", "Экспертиза по существу"],
+                   ["◇ ЗАЯВКА, НЕ ВЫДАННЫЙ ПАТЕНТ", "◧ ЗАЯВЛЕНО, ЗДЕСЬ НЕ ПРОВЕРЕНО"]),
+           "mid": "Технология излучателей гиперболического поля",
+           "kids": [("Это исследование", ["Агрономическое исследование"], True), ("Исследование плазмы", [], False), ("Исследование кристаллов", ["DAAT"], False)],
+           "desc": ("Перерисованная схема. Заявка KZ 2025/1095.1, Fractal Biomedical Hyperbolic Field System, экспертиза по существу: заявка, а не "
+                    "выданный патент, как её описывает прежний README. Она ведёт к технологии излучателей гиперболического поля, а та к трём "
+                    "исследованиям: это агрономическое, плазма крови, кристалл DAAT."),
+           "foot": "Репозиторий не называет заявителей и не показывает общих данных между исследованиями."},
+}
+
+
+def patentfig(lang):
+    c = PATENT[lang]
+    W, H = 1200, 556
+    cv = Canvas(W, H, c["title"], c["desc"], c["title"], c["sub"], c["tag"])
+    t, ls, st = c["top"]
+    cv.box(300, 96, 600, t, ls, status=[(st[0], VIOLET), (st[1], AMBER)], stroke=GOLD, h=148, center=True, valign="top", title_size=18)
+    cv.arrow([(600, 244), (600, 280)], MUTED)
+    cv.box(300, 282, 600, c["mid"], [], stroke=VIOLET, h=56, center=True, title_size=17)
+    n, gap = 3, 24
+    bw = (W - 48 - gap * (n - 1)) / n
+    ys = 338
+    cv.o.append("<line x1='600' y1='%d' x2='600' y2='%d' stroke='%s' stroke-width='2'/>" % (ys, ys + 24, MUTED))
+    cv.o.append("<line x1='%.1f' y1='%d' x2='%.1f' y2='%d' stroke='%s' stroke-width='2'/>" % (24 + bw / 2, ys + 24, 24 + 2 * (bw + gap) + bw / 2, ys + 24, MUTED))
+    for i, (kt, kl, me) in enumerate(c["kids"]):
+        x = 24 + i * (bw + gap)
+        cv.arrow([(x + bw / 2, ys + 24), (x + bw / 2, ys + 46)], MUTED)
+        cv.box(x, ys + 48, bw, kt, kl, stroke=GREEN if me else TEAL, h=80, center=True, fill="#10223a" if me else PANEL)
+    foot(cv, c["foot"], H - 16)
+    return "\n".join(cv.o + ["</svg>\n"])
+
+
 # --- icons -----------------------------------------------------------------------------------
 def icon(col, body, title):
     return ("<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" width=\"64\" height=\"64\" role=\"img\">\n"
@@ -457,6 +578,9 @@ def main():
         write("guide/assets/diagrams/timeline.%s.svg" % lang, timeline(lang))
         write("guide/assets/diagrams/evidence-ladder.%s.svg" % lang, ladder(lang))
         write("guide/assets/diagrams/family-map.%s.svg" % lang, family(lang))
+        write("guide/assets/diagrams/treatment-groups.%s.svg" % lang, groups(lang))
+        write("guide/assets/diagrams/planned-schedule.%s.svg" % lang, planfig(lang))
+        write("guide/assets/diagrams/patent-link.%s.svg" % lang, patentfig(lang))
     for name, (col, body, title) in ICONS.items():
         write("guide/assets/icons/%s.svg" % name, icon(col, body, title))
 
