@@ -18,6 +18,8 @@ Checks (H = hard, fails the run; S = soft, listed for human review)
     H4 every date, e-mail, @handle and code span of OLD is present in NEW
     H5 every image of OLD is still shown in NEW (as the PNG or as its redrawn EN/RU SVG pair)
        and the original file still exists
+    H10 every figure of the tagged tree (except icons) is listed in guide/FIGURES.md and FIGURES.ru.md, by file or folder
+    H11 no 'private repository' / memory / owner-ruling wording on the new pages
     H6 every heading anchor of OLD exists as a legacy <a id> in README.md
     H7 no broken relative link / fragment in any tracked Markdown file
     H8 no file deleted relative to the tag
@@ -192,6 +194,27 @@ def main():
         if not os.path.exists(im["target"]):
             img_miss.append(im["target"] + " (file missing)")
     res["hard"]["H5_images_missing"] = img_miss
+    # H10 every figure of the tagged tree is reachable from guide/FIGURES(.ru).md (by file or by its folder),
+    # except icons; the withheld percipient folder must be named there only as 'withheld'
+    figs = subprocess.run(["git", "ls-tree", "-r", "--name-only", TAG], capture_output=True, text=True).stdout.split("\n")
+    figs = [f for f in figs if f.lower().endswith((".svg", ".png", ".jpg", ".jpeg")) and "/icons/" not in f]
+    gal = {l: read("guide/FIGURES%s.md" % l) for l in ("", ".ru")}
+    fig_miss = []
+    for f in figs:
+        if f.startswith("reports/percipient_reports/"):
+            continue
+        for l, t in gal.items():
+            if f not in t and (os.path.dirname(f) + "/") not in t and os.path.dirname(f) not in t:
+                fig_miss.append("%s (FIGURES%s)" % (f, l))
+    res["hard"]["H10_figures_not_in_gallery"] = fig_miss
+    # H11 page text rules: no 'private repository' claim, no memory/owner-ruling wording on the new pages
+    bad = []
+    for f in ["README.md", "README.ru.md"] + sorted(glob.glob("guide/*.md")):
+        t = read(f)
+        for pat in (r"private repositor", r"приватн\w+ репозитор", r"ASRP memory", r"memory record", r"owner ruling", r"решени\w+ владельца"):
+            if re.search(pat, t, re.I):
+                bad.append("%s: %s" % (f, pat))
+    res["hard"]["H11_forbidden_wording"] = bad
     # H6 legacy anchors
     readme_ids = anchors_of("README.md") if os.path.exists("README.md") else set()
     res["hard"]["H6_legacy_anchors_missing"] = [
