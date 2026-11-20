@@ -230,7 +230,7 @@ ASRP_Hyperbolic_Field_Agricultural_Study/
 ```
 <!-- /tree -->
 
-Full page: [Navigation and structure](guide/NAVIGATION.md) · the previous README is kept in [`archive/`](archive/README_2026-11-19_pre-showcase.md).
+Full page: [Navigation and structure](guide/NAVIGATION.md) · the previous README is kept in [`archive/`](archive/README_2026-11-19_pre-showcase.md). Its Russian sections were marked "machine translation (GLM) from the English original".
 
 ## Open questions
 

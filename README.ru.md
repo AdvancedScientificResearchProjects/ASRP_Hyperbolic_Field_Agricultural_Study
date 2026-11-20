@@ -222,7 +222,7 @@ ASRP_Hyperbolic_Field_Agricultural_Study/
 ```
 <!-- /tree -->
 
-Полная страница: [Навигация и структура](guide/NAVIGATION.ru.md) · прежний README хранится в [`archive/`](archive/README_2026-11-19_pre-showcase.md).
+Полная страница: [Навигация и структура](guide/NAVIGATION.ru.md) · прежний README хранится в [`archive/`](archive/README_2026-11-19_pre-showcase.md). Его русские разделы были помечены: _Машинный перевод (GLM) с английского оригинала._
 
 ## Открытые вопросы
 
