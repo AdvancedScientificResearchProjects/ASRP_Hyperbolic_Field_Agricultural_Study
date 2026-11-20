@@ -211,7 +211,7 @@ def main():
     bad = []
     for f in ["README.md", "README.ru.md"] + sorted(glob.glob("guide/*.md")):
         t = read(f)
-        for pat in (r"private repositor", r"приватн\w+ репозитор", r"ASRP memory", r"memory record", r"owner ruling", r"решени\w+ владельца"):
+        for pat in (r"private repositor", r"приватн\w+ репозитор", r"ASRP memory", r"memory record", r"owner ruling", r"решени\w+ владельца", r"memory-policy", r"memory entit"):
             if re.search(pat, t, re.I):
                 bad.append("%s: %s" % (f, pat))
     res["hard"]["H11_forbidden_wording"] = bad

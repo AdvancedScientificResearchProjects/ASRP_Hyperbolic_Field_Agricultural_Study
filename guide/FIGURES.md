@@ -60,4 +60,4 @@ Data charts, photos and microscopy images are not redrawn; the three mermaid sch
 
 | Figure | What it shows | Source |
 |---|---|---|
-| (path withheld, 3 images) | Withheld: names of private persons (memory-policy). The folder holds 3 sample photos of one percipient's report dated 2026-06-30; they stay in the repository where they were and are not linked here | [evidence summary](../reports/percipient_reports/PLANT_CENSOR_EVIDENCE_SO_FAR.md) |
+| (path withheld, 3 images) | Withheld: names of private persons. The folder holds 3 sample photos of one percipient's report dated 2026-06-30; they stay in the repository where they were and are not linked here | [evidence summary](../reports/percipient_reports/PLANT_CENSOR_EVIDENCE_SO_FAR.md) |
