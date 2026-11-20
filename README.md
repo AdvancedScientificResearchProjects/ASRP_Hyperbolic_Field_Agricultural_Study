@@ -66,7 +66,7 @@ Full list: [guide index](guide/README.md).
 <!-- excerpt STUDY 0 -->
 This repository holds the **design of a planned randomized controlled trial (RCT)** of hyperbolic-field exposure on seed germination, plant growth dynamics and agricultural yield, **plus a small pilot layer** of photographs and image analyses. The trial would compare direct exposure, water-mediated effects and crystal-based treatment across <!--n:crops-->6<!--/n--> crop varieties and <!--n:substrates-->8<!--/n--> substrates, including Mars and Moon regolith simulants for space agriculture.
 
-**Read the data status before any result is inferred.** Protocol <!--n:protocol_version-->v8.3<!--/n--> is complete as a *text of intent*, but **no quantitative RCT results exist yet**: all <!--n:rct_bins-->13<!--/n--> group bins in `data/` are empty placeholders (<!--n:rct_bins_empty-->13<!--/n--> of <!--n:rct_bins-->13<!--/n-->). **No claim anywhere in the repository is confirmatory, statistically significant, dose-response, or based on completed trials.** Targets in the goals table below are protocol-defined hypotheses, not measured outcomes.
+**Read the data status before any result is inferred.** Protocol <!--n:protocol_version-->v8.3<!--/n--> is complete (as the previous README states; its text is not in this repository), but **no quantitative RCT results exist yet**: all <!--n:rct_bins-->13<!--/n--> group bins in `data/` are empty placeholders (<!--n:rct_bins_empty-->13<!--/n--> of <!--n:rct_bins-->13<!--/n-->). **No claim anywhere in the repository is confirmatory, statistically significant, dose-response, or based on completed trials.** Targets in the goals table below are protocol-defined hypotheses, not measured outcomes.
 
 The pilot layer is real but small: <!--n:photos-->23<!--/n--> tray photographs, one laid-down germination experiment (exp29) without a result, a one-frame blind-model comparison, two microscopy analyses, and a subjective percipient layer. See [Pilot data](guide/PILOT.md) and [Evidence](guide/EVIDENCE.md).
 <!-- /excerpt -->
@@ -230,7 +230,7 @@ ASRP_Hyperbolic_Field_Agricultural_Study/
 ```
 <!-- /tree -->
 
-Full page: [Navigation and structure](guide/NAVIGATION.md) · the previous README is kept in [`archive/`](archive/README_2026-11-19_pre-showcase.md).
+Full page: [Navigation and structure](guide/NAVIGATION.md) · the previous README is kept in [`archive/`](archive/README_2026-11-19_pre-showcase.md). Its Russian sections were marked "machine translation (GLM) from the English original".
 
 ## Open questions
 

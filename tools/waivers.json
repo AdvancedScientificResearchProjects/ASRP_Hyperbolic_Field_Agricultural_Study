@@ -93,7 +93,7 @@
   {
    "check": "S1_names_missing",
    "match": "\"Komarova St\"",
-   "reason": "PII-adjacent - memory-policy: the street address of the old contact block (residential-style, with apartment number) is not repeated on the new pages; it stays byte-identical in archive/README_2026-11-19_pre-showcase.md. Corporate contacts (organization, country, website, e-mail) are kept."
+   "reason": "PII-adjacent: the street address of the old contact block (residential-style, with apartment number) is not repeated on the new pages; it stays byte-identical in archive/README_2026-11-19_pre-showcase.md. Corporate contacts (organization, country, website, e-mail) are kept."
   },
   {
    "check": "S1_names_missing",
@@ -343,7 +343,7 @@
   {
    "check": "S1_names_missing",
    "match": "\"Ул. Комарова\"",
-   "reason": "PII-adjacent - memory-policy: the street address of the old contact block (residential-style, with apartment number) is not repeated on the new pages; it stays byte-identical in archive/README_2026-11-19_pre-showcase.md. Corporate contacts (organization, country, website, e-mail) are kept."
+   "reason": "PII-adjacent: the street address of the old contact block (residential-style, with apartment number) is not repeated on the new pages; it stays byte-identical in archive/README_2026-11-19_pre-showcase.md. Corporate contacts (organization, country, website, e-mail) are kept."
   },
   {
    "check": "S1_names_missing",
@@ -378,17 +378,17 @@
   {
    "check": "H3_numbers_missing",
    "match": "\"37\"",
-   "reason": "PII-adjacent - memory-policy: the street address of the old contact block (residential-style, with apartment number) is not repeated on the new pages; it stays byte-identical in archive/README_2026-11-19_pre-showcase.md. Corporate contacts (organization, country, website, e-mail) are kept."
+   "reason": "PII-adjacent: the street address of the old contact block (residential-style, with apartment number) is not repeated on the new pages; it stays byte-identical in archive/README_2026-11-19_pre-showcase.md. Corporate contacts (organization, country, website, e-mail) are kept."
   },
   {
    "check": "H3_numbers_missing",
    "match": "\"468320\"",
-   "reason": "PII-adjacent - memory-policy: the street address of the old contact block (residential-style, with apartment number) is not repeated on the new pages; it stays byte-identical in archive/README_2026-11-19_pre-showcase.md. Corporate contacts (organization, country, website, e-mail) are kept."
+   "reason": "PII-adjacent: the street address of the old contact block (residential-style, with apartment number) is not repeated on the new pages; it stays byte-identical in archive/README_2026-11-19_pre-showcase.md. Corporate contacts (organization, country, website, e-mail) are kept."
   },
   {
    "check": "H3_numbers_missing",
    "match": "\"56\"",
-   "reason": "PII-adjacent - memory-policy: the street address of the old contact block (residential-style, with apartment number) is not repeated on the new pages; it stays byte-identical in archive/README_2026-11-19_pre-showcase.md. Corporate contacts (organization, country, website, e-mail) are kept."
+   "reason": "PII-adjacent: the street address of the old contact block (residential-style, with apartment number) is not repeated on the new pages; it stays byte-identical in archive/README_2026-11-19_pre-showcase.md. Corporate contacts (organization, country, website, e-mail) are kept."
   },
   {
    "check": "H2_urls_missing",
